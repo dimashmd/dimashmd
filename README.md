@@ -43,3 +43,7 @@ Tools:          Git, GitHub, Docker
 - **Meeting Inclusion Analyzer** — AI-powered tool using speech-to-text and diarization  
 - **AI Video Detection** — hackathon project for detecting AI-generated video content  
 - **Terminal Personal Website** — experimental SSH/TUI-style personal website (In-Development) 
+
+---
+
+<img width="480" height="270" alt="qrtxxe638kXlhKBDxg" src="https://github.com/user-attachments/assets/4d322902-605a-4ddb-b2c1-b285b9fc007e" />
