@@ -16,7 +16,7 @@
 ### 🧠 About Me
 
 - 🎓 B.S. Computer Science student at **Stony Brook University**
-- 🇰🇿 From **Almaty, Kazakhstan**
+- 📍 From **Almaty, Kazakhstan**
 - 💻 Interested in **full-stack development**, **AI/ML**, **systems**, and **mobile apps**
 - 🧪 Exploring research around **LLMs, memorization, generative AI, and model behavior**
 - 🚀 Building projects like **UniSwipe**, **SBU Marketplace**, and AI-powered hackathon apps
@@ -44,16 +44,3 @@ Tools:          Git, GitHub, Docker, Linux, macOS
 - **Meeting Inclusion Analyzer** — AI-powered tool using speech-to-text and diarization  
 - **AI Video Detection** — hackathon project for detecting AI-generated video content  
 - **Terminal Personal Website** — experimental SSH/TUI-style personal website  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/dimashmd">
-    <img src="https://github-readme-stats.vercel.app/api?username=dimashmd&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
-  </a>
-  <a href="https://github.com/dimashmd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimashmd&layout=compact&theme=transparent" width="42%"/>
-  </a>
-</p>
