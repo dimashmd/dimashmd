@@ -45,5 +45,6 @@ Tools:          Git, GitHub, Docker
 - **Terminal Personal Website** — experimental SSH/TUI-style personal website (In-Development) 
 
 ---
-
-<img align="center" width="480" height="270" alt="qrtxxe638kXlhKBDxg" src="https://github.com/user-attachments/assets/4d322902-605a-4ddb-b2c1-b285b9fc007e" />
+<p align="center">
+  <img width="480" height="270" alt="qrtxxe638kXlhKBDxg" src="https://github.com/user-attachments/assets/4d322902-605a-4ddb-b2c1-b285b9fc007e"/>
+</p>
