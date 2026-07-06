@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:dimash.madiyar@stonybrook.edu">✉️ Email</a> •
   <a href="https://github.com/dimashmd">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/dmadiyar">🔗 LinkedIn</a> •
+  <a href="https://linkedin.com/in/dmadiyar">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -46,4 +46,4 @@ Tools:          Git, GitHub, Docker
 
 ---
 
-<img width="480" height="270" alt="qrtxxe638kXlhKBDxg" src="https://github.com/user-attachments/assets/4d322902-605a-4ddb-b2c1-b285b9fc007e" />
+<img align="center" width="480" height="270" alt="qrtxxe638kXlhKBDxg" src="https://github.com/user-attachments/assets/4d322902-605a-4ddb-b2c1-b285b9fc007e" />
