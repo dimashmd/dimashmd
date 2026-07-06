@@ -32,15 +32,14 @@ Frontend:       React, Next.js, Flutter, Tailwind CSS
 Backend:        Node.js, Express, FastAPI, Flask
 Databases:      MongoDB, Firebase
 AI/ML:          TensorFlow, OpenCV, Whisper, pyannote.audio
-Tools:          Git, GitHub, Docker, Linux, macOS
+Tools:          Git, GitHub, Docker
 ```
 
 ---
 
 ### 🚀 Projects
 
-- **UniSwipe** — mobile app for discovering and comparing universities  
 - **SBU Marketplace** — full-stack marketplace platform for Stony Brook students  
 - **Meeting Inclusion Analyzer** — AI-powered tool using speech-to-text and diarization  
 - **AI Video Detection** — hackathon project for detecting AI-generated video content  
-- **Terminal Personal Website** — experimental SSH/TUI-style personal website  
+- **Terminal Personal Website** — experimental SSH/TUI-style personal website (In-Development) 
