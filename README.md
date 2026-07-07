@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="mailto:dimash.madiyar@stonybrook.edu">✉️ Email</a> •
-  <a href="https://github.com/dimashmd">💻 GitHub</a> •
   <a href="https://linkedin.com/in/dmadiyar">🔗 LinkedIn</a>
 </p>
 
