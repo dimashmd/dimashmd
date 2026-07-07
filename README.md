@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Dimash Madiyar</h1>
+<h1 align="center">👋 Hi, I'm Dinmukahmed (Dimash) Madiyar</h1>
 
 <p align="center">
   <b>Computer Science student at Stony Brook University 🇺🇸 </b> from <b>Almaty, Kazakhstan</b> 🇰🇿 <br/>
